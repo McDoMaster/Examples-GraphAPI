@@ -7,3 +7,10 @@ The method to connect to the API is using a client secret. A certificate (even s
 ## Ask for help
 
 You can open an issue to ask for more examples.
+
+## Things to add
+- (All methods to conenct to Graph API)[https://dzone.com/articles/getting-access-token-for-microsoft-graph-using-oau]
+- Get reports of usage
+- Get Groups
+- Get Teams
+- Get Calendars
